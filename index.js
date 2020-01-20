@@ -8,7 +8,7 @@
 * Ej: saleCarro(0) me devuelve el valor "Bocho gris"
 */
 
-var llaves = []
+var cajDeLlaves = []
 
 function entraCarro () {
 

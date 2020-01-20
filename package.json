@@ -1,0 +1,11 @@
+{
+  "name": "valet-parking",
+  "version": "1.0.0",
+  "description": "Ejercicio de rally para curso de introducción a la programación de Kodemia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Ochoa",
+  "license": "MIT"
+}
